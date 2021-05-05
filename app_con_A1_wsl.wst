@@ -1,0 +1,22 @@
+2176;ZAzureDataLakeGen2
+2173;ZAzureDataLakeGen2Storage
+2175;ZAzureDataLakeGen2Storage1
+61;ODatabase Source System
+4284;ZGoogleDrive
+4297;OPYDB
+62;ORange Table Location
+1;DRepository
+3;WRuntime Connection for Scripts
+108;OSales
+60;DSnowflake
+4258;ZTest
+63;WWindows Comma Sep Files
+64;WWindows Fixed Width
+65;WWindows JSON Files
+66;WWindows Pipe Sep Files
+67;WWindows XML Files
+_WS&TARGET_load;1;60;13;TEST_DRIVE_DB100;RK_DEV_LOAD;;;TGTCOLOR=000000255;
+_WS&TARGET_stage;2;60;13;TEST_DRIVE_DB100;RK_DEV_STAGE;;;TGTCOLOR=012582990;
+_WS&TARGET_edw;3;60;13;TEST_DRIVE_DB100;RK_DEV_EDW;;;TGTCOLOR=005537792;
+_WS&TARGET_data_vault;4;60;13;TEST_DRIVE_DB100;RK_DEV_EDW;;;TGTCOLOR=000032960;
+_WS&TARGET_RangeTables;5;62;2;RANGE_WORK_DB;dbo;;;TGTCOLOR=016734207;
